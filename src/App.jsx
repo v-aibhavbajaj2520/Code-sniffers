@@ -6,6 +6,8 @@ import {
   Contact,
   Courses,
   Footer,
+  Textarea,
+  SpeechToText,
 } from "./components/index";
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
       <Home />
       <About />
       <Courses />
+      <Textarea />
+      <SpeechToText />
       <Teacher />
       <Contact />
       <Footer />
