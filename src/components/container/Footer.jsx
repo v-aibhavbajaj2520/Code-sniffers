@@ -60,7 +60,7 @@ const Footer = () => {
         </div>
         <div>
           <div className="font-bold mb-6">Follow us</div>
-          <div className="text-sm mb-4">studyblind@gmail.com</div>
+          <div className="text-sm mb-4">SensAble@gmail.com</div>
           <div className="text-sm">+959883271929</div>
           <div className="flex gap-4 mt-4">
             <a href="" className="hover:scale-110 text-xl">

@@ -1,3 +1,4 @@
+import React from "react";
 import {
   Navbar,
   Home,
@@ -8,11 +9,13 @@ import {
   Footer,
   Textarea,
   SpeechToText,
+  
 } from "./components/index";
+import HoverToSpeech from "./components"; 
 
 function App() {
   return (
-    <div className="font-Poppins bg-Solitude">
+    <div id="speakThis" className="font-Poppins bg-Solitude">
       <Navbar />
       <Home />
       <About />
@@ -22,6 +25,7 @@ function App() {
       <Teacher />
       <Contact />
       <Footer />
+      <HoverToSpeech />
     </div>
   );
 }

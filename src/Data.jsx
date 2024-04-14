@@ -150,18 +150,18 @@ export const logos = [logo1, logo2, logo3, logo4, logo5, logo6];
 export const accordions = [
   {
     id: 1,
-    title: "What is STUDYBLIND?",
+    title: "What is SensAble?",
   },
   {
     id: 2,
-    title: "What can I learn from STUDYBLIND?",
+    title: "What can I learn from SensAble?",
   },
   {
     id: 3,
-    title: "Can I teach on STUDYBLIND?",
+    title: "Can I teach on SensAble?",
   },
   {
     id: 4,
-    title: "What is included in my STUDYBLIND membership?",
+    title: "What is included in my SensAble membership?",
   },
 ];

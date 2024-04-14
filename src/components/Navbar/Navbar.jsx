@@ -32,7 +32,7 @@ const Navbar = () => {
               onClick={() => setToggle(true)}
             />
             <div className="text-xl text-Teal uppercase tracking-wide font-bold">
-             STUDYBLIND
+            SensAble
             </div>
           </div>
           <div className="sm:flex items-center hidden">
