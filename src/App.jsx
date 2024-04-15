@@ -1,17 +1,7 @@
 import React from "react";
-import {
-  Navbar,
-  Home,
-  About,
-  Teacher,
-  Contact,
-  Courses,
-  Footer,
-  Textarea,
-  SpeechToText,
-  
-} from "./components/index";
-import HoverToSpeech from "./components"; 
+import { Navbar, Home, About, Courses, Teacher, Contact, Footer, Textarea, SpeechToText } from './components/index';
+
+import HoverToSpeech from "./components/HoverToSpeech"; 
 
 function App() {
   return (
